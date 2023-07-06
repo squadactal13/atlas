@@ -1,0 +1,49 @@
+{
+	"id": "twrw0l",
+	"name": "Grundgesetz",
+	"description": "The Basic Law for the Federal Republic of Germany is the constitution of the Federal Republic of Germany. The West German Constitution was approved in Bonn on 8 May 1949 and came into effect on 23 May after having been approved by the occupying western Allies of World War II on 12 May.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Basic_Law_for_the_Federal_Republic_of_Germany"
+		],
+		"subreddit": [
+			"placeDE",
+			"de",
+			"germany"
+		],
+		"discord": [
+			"placeDE",
+			"de",
+			"germany"
+		],
+		"wiki": [
+			"The_\"Grundgesetz\"_of_germany"
+		]
+	},
+	"path": {
+		"T:0-1, 109-164": [
+			[
+				1670,
+				1128
+			],
+			[
+				1691,
+				1128
+			],
+			[
+				1691,
+				1163
+			],
+			[
+				1670,
+				1163
+			]
+		]
+	},
+	"center": {
+		"T:0-1, 109-164": [
+			1681,
+			1146
+		]
+	}
+}
