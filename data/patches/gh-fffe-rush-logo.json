@@ -1,0 +1,75 @@
+{
+	"id": "twxszy",
+	"name": "Rush Logo",
+	"description": "Logo for the Canadian Progressive Rock band, Rush. Destroyed 6 times by streamers before forming an alliance with the pink floyd prism.",
+	"links": {
+		"subreddit": [
+			"rush"
+		],
+		"discord": [
+			"5w7m6EMTh7"
+		]
+	},
+	"path": {
+		"T:0-1, 109-164": [
+			[
+				1756,
+				1329
+			],
+			[
+				1755,
+				1338
+			],
+			[
+				1756,
+				1346
+			],
+			[
+				1780,
+				1345
+			],
+			[
+				1782,
+				1345
+			],
+			[
+				1782,
+				1344
+			],
+			[
+				1784,
+				1344
+			],
+			[
+				1784,
+				1343
+			],
+			[
+				1785,
+				1343
+			],
+			[
+				1785,
+				1342
+			],
+			[
+				1786,
+				1342
+			],
+			[
+				1786,
+				1330
+			],
+			[
+				1756,
+				1329
+			]
+		]
+	},
+	"center": {
+		"T:0-1, 109-164": [
+			1764,
+			1338
+		]
+	}
+}
